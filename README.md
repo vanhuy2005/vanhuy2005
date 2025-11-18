@@ -2,13 +2,13 @@
 <table border="0" width="100%">
 <tr>
 <td width="65%" align="center" valign="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Nguyen+Van+Quang+Huy;Software+Products+Developer+🚀;Building+EdTech+Solutions;Open+for+Collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines="Hi+👋,+I'm+Nguyen+Van+Quang+Huy;Software+Products+Developer+🚀;Building+EdTech+Solutions;Open+for+Collaborations" alt="Typing SVG" />
 <br/><br/>
 <p>
 <a href="https://www.facebook.com/nguyenvanquang.huy.522">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="https://www.linkedin.com/in/LINK_LINKEDIN_CUA_BAN/">
+<a href="https://www.linkedin.com/in/[LINK_LINKEDIN_CUA_BAN](https://www.linkedin.com/in/nguy%E1%BB%85n-v%C4%83n-quang-huy-21684b2b6/)/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:nguyen.van.quang.huy.2105@gmail.com">
