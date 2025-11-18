@@ -16,7 +16,7 @@
 </a>
 </p>
 <p>
-<a href="CV_NguyenVanQuangHuy.pdf" target="_blank">
+<a href="NGUYEN VAN QUANG HUY (2).pdf" target="_blank">
 <img src="https://img.shields.io/badge/Download_My_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
 </a>
 </p>
