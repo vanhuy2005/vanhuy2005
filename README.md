@@ -4,6 +4,7 @@
       <td width="60%" align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Quang+Huy;MERN+Stack+Developer+🚀;Building+EdTech+Solutions;Open+to+Work+&+Collab" alt="Typing SVG" />
         <br/><br/>
+        
         <a href="https://www.facebook.com/nguyenvanquang.huy.522">
           <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
         </a>
@@ -47,8 +48,10 @@
 ---
 
 ### 🚀 Featured Projects
+
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **📝 [Memo Hub](https://github.com/vanhuy2005/memo-hub)** | A personal knowledge management & note-taking app. | `ReactJS` `NodeJS` `MongoDB` |
 | **📘 Student Management** | A web app to manage students for an English Center. | `ReactJS` `NodeJS` `MongoDB` |
 | **🌏 Community Hub** | A conceptual platform for connecting learners. | `MERN Stack` `Figma` |
 | **🛒 E-commerce Basic** | Simple shopping cart functionality. | `Javascript` `HTML/CSS` |
