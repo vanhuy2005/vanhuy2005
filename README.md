@@ -66,7 +66,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/vanhuy2005/vanhuy2005/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
