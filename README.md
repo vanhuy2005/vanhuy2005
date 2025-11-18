@@ -1,24 +1,17 @@
 <div align="center">
-<table border="0" width="100%">
-<tr>
-<td width="60%" align="center">
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Hi](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Hi)+👋,+I'm+Quang+Huy;Software+Products+Developer+🚀;Interested+In+Building+EdTech+Solutions;Open+to+Work+&+Collab" alt="Typing SVG" />
-<br/><br/>
-<a href="[https://www.facebook.com/nguyenvanquang.huy.522](https://www.facebook.com/nguyenvanquang.huy.522)">
-<img src="[https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)" alt="Facebook" />
-</a>
-<a href="mailto:nguyen.van.quang.huy.2105@gmail.com">
-<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail" />
-</a>
-<a href="NGUYEN VAN QUANG HUY (2).pdf" target="_blank">
-<img src="[https://img.shields.io/badge/View_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white](https://img.shields.io/badge/View_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)" alt="CV" />
-</a>
-</td>
-<td width="40%" align="center">
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="100%"/>
-</td>
-</tr>
-</table>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Nguyen+Van+Quang+Huy;A+Software+Product+Enthusiast+🚀;MERN+Stack+Developer;Building+EdTech+%26+Community+Solutions" alt="Typing SVG" />
+  <br/>
+  <p>
+    <a href="https://www.facebook.com/nguyenvanquang.huy.522">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="mailto:nguyen.van.quang.huy.2105@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="NGUYEN VAN QUANG HUY (2).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
+    </a>
+  </p>
 </div>
 
 <div align="center">
