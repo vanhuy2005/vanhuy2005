@@ -1,14 +1,14 @@
 <div align="center">
 <table border="0" width="100%">
 <tr>
-<td width="65%" align="center" valign="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines="Hi+👋,+I'm+Nguyen+Van+Quang+Huy;Software+Products+Developer+🚀;Building+EdTech+Solutions;Open+for+Collaborations" alt="Typing SVG" />
+<td width="60%" align="center" valign="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Nguyen+Van+Quang+Huy;Software+Products+Developer+🚀;Building+EdTech+Solutions;Open+for+Collaborations" alt="Typing SVG" />
 <br/><br/>
 <p>
 <a href="https://www.facebook.com/nguyenvanquang.huy.522">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="https://www.linkedin.com/in/[LINK_LINKEDIN_CUA_BAN](https://www.linkedin.com/in/nguy%E1%BB%85n-v%C4%83n-quang-huy-21684b2b6/)/">
+<a href="https://www.linkedin.com/in/nguy%E1%BB%85n-v%C4%83n-quang-huy-21684b2b6/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:nguyen.van.quang.huy.2105@gmail.com">
@@ -21,18 +21,19 @@
 </a>
 </p>
 </td>
-<td width="35%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 </td>
 </tr>
 </table>
 </div>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vanhuy2005&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 👨‍💻 My Journey & Interest
 - 🎓 **Education:** Currently a **Junior (3rd Year)** majoring in **IT** at **Ho Chi Minh City University of Education**.
@@ -51,7 +52,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 🚀 Featured Projects
 
@@ -62,8 +65,10 @@
 | **🌏 Community Hub** | A conceptual platform for connecting learners. | `MERN Stack` `Figma` |
 | **🛒 E-commerce Basic** | Simple shopping cart functionality. | `Javascript` `HTML/CSS` |
 
----
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284110-5399d47c-2497-49dc-9f77-0597f17f1209.gif" width="100%">
 ### 🔥 GitHub Statistics
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhuy2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -81,4 +86,7 @@
 <div align="center">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=vanhuy2005&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
