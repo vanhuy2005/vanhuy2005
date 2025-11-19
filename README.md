@@ -2,7 +2,7 @@
 <table border="0" width="100%">
 <tr>
 <td width="65%" align="center" valign="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Nguyen+Van+Quang+Huy;Software+Products+Developer+🚀;Building+EdTech+Solutions;Open+for+Collaborations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Quang+Huy;Software+Products+Developer+🚀;Building+EdTech+Solutions;Open+for+Collaborations" alt="Typing SVG" />
 <br/><br/>
 <p>
 <a href="https://www.facebook.com/nguyenvanquang.huy.522">
