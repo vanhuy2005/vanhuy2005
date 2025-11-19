@@ -48,7 +48,7 @@
 
 | **Frontend Development** | **Backend & Database** | **Tools & DevOps** |
 | :---: | :---: | :---: |
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,postman,figma&theme=dark",jira /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,postman,figma,jira&theme=dark" /></a> |
 
 </div>
 <div align="center">
