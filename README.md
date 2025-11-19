@@ -46,25 +46,22 @@
 ### 🛠 Tech Stack
 <div align="center">
 
-| **Frontend** | **Backend** | **Tools & Design** |
+| **Frontend Development** | **Backend & Database** | **Tools & DevOps** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,jira,figma" /> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,postman,figma&theme=dark",jira /></a> |
 
 </div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ### 🚀 Featured Projects
-
-| Project Name | Description | Tech Stack |
+| Project | Description | Core Tech |
 | :--- | :--- | :--- |
-| **📝 [Memo Hub](https://github.com/vanhuy2005/memo-hub)** | A personal knowledge management & note-taking app. | `ReactJS` `NodeJS` `MongoDB` |
-| **📘 Student Management** | A web app to manage students for an English Center. | `ReactJS` `NodeJS` `MongoDB` |
-| **🌏 Community Hub** | A conceptual platform for connecting learners. | `MERN Stack` `Figma` |
-| **🛒 E-commerce Basic** | Simple shopping cart functionality. | `Javascript` `HTML/CSS` |
-
+| **🧠 [Memo Hub](https://github.com/vanhuy2005/memo-hub)** | A smart vocabulary learning platform utilizing the **Spaced Repetition System (SM-2)** algorithm for optimal retention. Features gamified study sessions and detailed analytics. | `MERN Stack` `Redis` `BullMQ` `i18n` |
+| **💬 [Real-time Chat](https://github.com/vanhuy2005/real-time-chat)** | A dynamic messaging platform enabling instant communication. Features live notifications, room management, and secure user authentication. | `ReactJS` `NodeJS` `Socket.io` `JWT` |
+| **📘 [English Center](https://github.com/vanhuy2005/english-center)** | A comprehensive CRM system for educational centers. Handles student enrollment, course scheduling, tuition tracking, and teacher management. | `ReactJS` `Express` `MongoDB` `RestAPI` |
+| **🍎 [Fresh Fruit Store](https://github.com/vanhuy2005/fresh-fruit-web)** | A responsive e-commerce interface for fresh produce. Features product filtering, cart management, and a user-friendly checkout UI. | `JavaScript (ES6+)` `HTML5` `CSS3` |
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
