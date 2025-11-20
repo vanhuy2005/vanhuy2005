@@ -22,9 +22,10 @@ Extremely facinated by building EdTech or Community Driven Products
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="NGUYEN VAN QUANG HUY (2).pdf" target="_blank">
-<img src="https://img.shields.io/badge/Download_My_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
-</a>
+    <img src="https://img.shields.io/badge/Download_My_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
+  </a>
 </div>
+
 ---
 
 ## ⚡ About Me
@@ -40,14 +41,11 @@ Extremely facinated by building EdTech or Community Driven Products
   [-_] Improving language skill 🌏
 > Status: ONLINE && READY_TO_COLLABORATE 🟢
 
-</div\>
-<div align="center"\>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="5px"/\>
-</div\>
+
 
 ```
 ## 🏆 Achievements
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dvanhuy2005%26theme%3Dgitdimmed%26no-frame%3Dtrue%26column%3D7%26row%3D1%26margin-w%3D15" alt="vanhuy2005 trophies" /> </a> </div>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/%3Fusername%3Dvanhuy2005%26theme%3Dgitdimmed%26no-frame%3Dtrue%26column%3D7%26row%3D1%26margin-w%3D15" alt="vanhuy2005 trophies" /> </a> </div>
 
 ## 🧠 Tech Stack
 <div align="center"> <img src="https://media.giphy.com/media/Tdp8F2a6k7WNy328O9/giphy.gif" width="50px" />
