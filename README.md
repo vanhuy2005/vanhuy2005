@@ -1,9 +1,9 @@
 <!-- Banner -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:6610f2&height=220&text=QUANG%20HUY&fontSize=70&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
 </div>
 
+<!-- SOCIAL LINKS (center ok) -->
 <div align="center">
 
 ### SOFTWARE PRODUCTS DEVELOPER  
@@ -11,7 +11,7 @@ Extremely facinated by building EdTech or Community Driven Products
 
 <br/>
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-v%C4%83n-quang-huy-21684b2b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -26,7 +26,12 @@ Extremely facinated by building EdTech or Community Driven Products
   </a>
 </div>
 
+</div> <!-- ĐÓNG phần center -->
+
 ---
+
+## ⚡ About Me
+
 
 ## ⚡ About Me
 
@@ -34,7 +39,6 @@ Extremely facinated by building EdTech or Community Driven Products
 > dev.status()
 > User: Quang Huy (Junior IT Student)
 > Education: Ho Chi Minh University of Eduction
-> Mission: "Code to connect & educate community"
 > Current_Quest: Mastering MERN Stack & System Design
 > Side_Quests: 
   [-_] Hitting the Gym 🏋️
@@ -45,20 +49,23 @@ Extremely facinated by building EdTech or Community Driven Products
 
 ```
 ## 🏆 Achievements
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/%3Fusername%3Dvanhuy2005%26theme%3Dgitdimmed%26no-frame%3Dtrue%26column%3D7%26row%3D1%26margin-w%3D15" alt="vanhuy2005 trophies" /> </a> </div>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vanhuy2005&theme=gitdimmed&no-frame=true&column=7&row=1&margin-w=15" alt="vanhuy2005 trophies" />
+  </a>
+</div>
+
 
 ## 🧠 Tech Stack
-<div align="center"> <img src="https://media.giphy.com/media/Tdp8F2a6k7WNy328O9/giphy.gif" width="50px" />
+<div align="center">
+  <img src="https://media.giphy.com/media/Tdp8F2a6k7WNy328O9/giphy.gif" width="50px" />
 
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite,bootstrap&theme=dark" alt="Frontend" />
 
-<img src="https://skillicons.dev/icons%3Fi%3Dreact,ts,nextjs,tailwind,vite,bootstrap%26theme%3Ddark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql&theme=dark" alt="Backend" />
 
-
-<img src="https://skillicons.dev/icons%3Fi%3Dnodejs,express,mongodb,redis,mysql%26theme%3Ddark" alt="Backend" />
-
-
-<img src="https://skillicons.dev/icons%3Fi%3Dgit,postman,figma,trello" alt="Tools" /> </div>
-
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,trello" alt="Tools" />
+</div>
 
 ### 🚀 Featured Deployments
 
@@ -72,12 +79,30 @@ Extremely facinated by building EdTech or Community Driven Products
 
 ### 📊 GitHub Analytics 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dvanhuy2005%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue%26bg_color%3D0D1117" height="180px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dvanhuy2005%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue%26langs_count%3D6%26bg_color%3D0D1117" height="180px" /> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanhuy2005&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" height="180px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhuy2005&layout=compact&theme=dracula&hide_border=true&langs_count=6&bg_color=0D1117" height="180px" />
+</div>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dvanhuy2005%26theme%3Ddracula%26hide_border%3Dtrue%26background%3D0D1117" /> </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhuy2005&theme=dracula&hide_border=true&background=0D1117" />
+</div>
 
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake.svg"> </picture> </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/%3Fusername%3Dvanhuy2005%26label%3DTRAFFIC%2BMONITOR%26style%3Dflat-square%26color%3D00f2ff" /> </div> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/221362873-88e47976-3787-4884-914a-c33c21f800e1.gif" width="100%" /> </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanhuy2005&label=TRAFFIC+MONITOR&style=flat-square&color=00f2ff" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221362873-88e47976-3787-4884-914a-c33c21f800e1.gif" width="100%" />
+</div>
 
 ```
