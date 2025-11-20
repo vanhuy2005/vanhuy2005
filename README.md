@@ -48,30 +48,26 @@ Extremely facinated by building EdTech or Community Driven Products
 ## 🏆 Achievements
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vanhuy2005&theme=gitdimmed&no-frame=true&column=7&row=1&margin-w=15" alt="vanhuy2005 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vanhuy2005&theme=onedark&no-frame=true&row=1" />
   </a>
 </div>
 
 
 ## 🧠 Tech Stack
 
-### 🔵 Frontend
+### Frontend
 
 | React | TypeScript |  Tailwind | Vite | Bootstrap |
 |-------|------------|----------|------|-----------|
 | <img src="https://skillicons.dev/icons?i=react" width="48" /> | <img src="https://skillicons.dev/icons?i=ts" width="48" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="48" /> | <img src="https://skillicons.dev/icons?i=vite" width="48" /> | <img src="https://skillicons.dev/icons?i=bootstrap" width="48" /> |
 
----
-
-### 🟢 Backend
+### Backend
 
 | Node.js | Express | MongoDB | Redis | MySQL |
 |---------|---------|---------|-------|--------|
 | <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> | <img src="https://skillicons.dev/icons?i=express" width="48" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="48" /> | <img src="https://skillicons.dev/icons?i=redis" width="48" /> | <img src="https://skillicons.dev/icons?i=mysql" width="48" /> |
 
----
-
-### 🛠 Tools
+### Tools
 
 | Git | Postman | Figma | Trello |
 |------|---------|--------|---------|
