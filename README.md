@@ -43,15 +43,24 @@ Extremely facinated by building EdTech or Community Driven Products
 ```
 ## 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanhuy2005&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=vanhuy2005&theme=onedark&row=1&no-frame=true" alt="GitHub Trophies" />
 
 ## 🧠 Tech Stack
-| Frontend |  |  |  |  | Backend |  |  |  |  |
-|----------|--|--|--|--|---------|--|--|--|--|
-| React    | TypeScript | Tailwind | Vite | Bootstrap | Node.js | Express | MongoDB | Redis | MySQL |
-| <img src="https://skillicons.dev/icons?i=react" width="48" /> | <img src="https://skillicons.dev/icons?i=ts" width="48" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="48" /> | <img src="https://skillicons.dev/icons?i=vite" width="48" /> | <img src="https://skillicons.dev/icons?i=bootstrap" width="48" /> | <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> | <img src="https://skillicons.dev/icons?i=express" width="48" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="48" /> | <img src="https://skillicons.dev/icons?i=redis" width="48" /> | <img src="https://skillicons.dev/icons?i=mysql" width="48" /> |
+| Frontend | Backend |
+|----------|---------|
+| <div align="center">
+  <img src="https://skillicons.dev/icons?i=react" width="48" /> 
+  <img src="https://skillicons.dev/icons?i=ts" width="48" /> 
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" /> 
+  <img src="https://skillicons.dev/icons?i=vite" width="48" /> 
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" />
+</div> | <div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> 
+  <img src="https://skillicons.dev/icons?i=express" width="48" /> 
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" /> 
+  <img src="https://skillicons.dev/icons?i=redis" width="48" /> 
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
+</div> |
 
 ### Tools
 
@@ -73,6 +82,7 @@ Extremely facinated by building EdTech or Community Driven Products
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhuy2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=vanhuy2005&theme=tokyonight" alt="GitHub Streak" />
 
   <br/><br/>
 
@@ -88,8 +98,4 @@ Extremely facinated by building EdTech or Community Driven Products
   <br/>
   <img src="https://komarev.com/ghpvc/?username=vanhuy2005&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
 ```
