@@ -11,12 +11,6 @@ Extremely facinated by building EdTech or Community Driven Products
 
 <br/>
 
-</div>
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=800&color=4dabf7&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Building+Scalable+Systems;Designing+Clean+Architecture;Improving+1%25+Every+Single+Day" alt="Typing SVG" />
-  </a>
-</div>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-v%C4%83n-quang-huy-21684b2b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,6 +21,9 @@ Extremely facinated by building EdTech or Community Driven Products
   <a href="https://www.facebook.com/nguyenvanquang.huy.522" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
+  <a href="NGUYEN VAN QUANG HUY (2).pdf" target="_blank">
+<img src="https://img.shields.io/badge/Download_My_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
+</a>
 </div>
 ---
 
@@ -50,7 +47,7 @@ Extremely facinated by building EdTech or Community Driven Products
 
 ```
 ## 🏆 Achievements
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/%3Fusername%3Dvanhuy2005%26theme%3Dgitdimmed%26no-frame%3Dtrue%26column%3D7%26margin-w%3D15%26row%3D1" alt="vanhuy2005 trophies" /> </a> </div>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dvanhuy2005%26theme%3Dgitdimmed%26no-frame%3Dtrue%26column%3D7%26row%3D1%26margin-w%3D15" alt="vanhuy2005 trophies" /> </a> </div>
 
 ## 🧠 Tech Stack
 <div align="center"> <img src="https://media.giphy.com/media/Tdp8F2a6k7WNy328O9/giphy.gif" width="50px" />
