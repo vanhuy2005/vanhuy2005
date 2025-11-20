@@ -32,9 +32,6 @@ Extremely facinated by building EdTech or Community Driven Products
 
 ## ⚡ About Me
 
-
-## ⚡ About Me
-
 ```bash
 > dev.status()
 > User: Quang Huy (Junior IT Student)
@@ -57,15 +54,28 @@ Extremely facinated by building EdTech or Community Driven Products
 
 
 ## 🧠 Tech Stack
-<div align="center">
-  <img src="https://media.giphy.com/media/Tdp8F2a6k7WNy328O9/giphy.gif" width="50px" />
 
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,vite,bootstrap&theme=dark" alt="Frontend" />
+### 🔵 Frontend
 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,mysql&theme=dark" alt="Backend" />
+| React | TypeScript |  Tailwind | Vite | Bootstrap |
+|-------|------------|----------|------|-----------|
+| <img src="https://skillicons.dev/icons?i=react" width="48" /> | <img src="https://skillicons.dev/icons?i=ts" width="48" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="48" /> | <img src="https://skillicons.dev/icons?i=vite" width="48" /> | <img src="https://skillicons.dev/icons?i=bootstrap" width="48" /> |
 
-  <img src="https://skillicons.dev/icons?i=git,postman,figma,trello" alt="Tools" />
-</div>
+---
+
+### 🟢 Backend
+
+| Node.js | Express | MongoDB | Redis | MySQL |
+|---------|---------|---------|-------|--------|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> | <img src="https://skillicons.dev/icons?i=express" width="48" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="48" /> | <img src="https://skillicons.dev/icons?i=redis" width="48" /> | <img src="https://skillicons.dev/icons?i=mysql" width="48" /> |
+
+---
+
+### 🛠 Tools
+
+| Git | Postman | Figma | Trello |
+|------|---------|--------|---------|
+| <img src="https://skillicons.dev/icons?i=git" width="48" /> | <img src="https://skillicons.dev/icons?i=postman" width="48" /> | <img src="https://skillicons.dev/icons?i=figma" width="48" /> | <img src="https://skillicons.dev/icons?i=trello" width="48" /> |
 
 ### 🚀 Featured Deployments
 
@@ -80,9 +90,9 @@ Extremely facinated by building EdTech or Community Driven Products
 ### 📊 GitHub Analytics 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanhuy2005&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhuy2005&layout=compact&theme=dracula&hide_border=true&langs_count=6&bg_color=0D1117" height="180px" />
+ <img src="https://github-readme-stats.vercel.app/api?username=vanhuy2005&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhuy2005&layout=compact&theme=dracula&hide_border=true&langs_count=6&bg_color=0D1117" />
 </div>
 
 <div align="center">
