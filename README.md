@@ -31,7 +31,6 @@ Extremely facinated by building EdTech or Community Driven Products
 ---
 
 ## ⚡ About Me
-
 ```bash
 > dev.status()
 > User: Quang Huy (Junior IT Student)
@@ -41,31 +40,18 @@ Extremely facinated by building EdTech or Community Driven Products
   [-_] Hitting the Gym 🏋️
   [-_] Improving language skill 🌏
 > Status: ONLINE && READY_TO_COLLABORATE 🟢
-
-
-
 ```
 ## 🏆 Achievements
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vanhuy2005&theme=onedark&no-frame=true&row=1" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=vanhuy2005&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" />
 </div>
 
 
 ## 🧠 Tech Stack
-
-### Frontend
-
-| React | TypeScript |  Tailwind | Vite | Bootstrap |
-|-------|------------|----------|------|-----------|
-| <img src="https://skillicons.dev/icons?i=react" width="48" /> | <img src="https://skillicons.dev/icons?i=ts" width="48" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="48" /> | <img src="https://skillicons.dev/icons?i=vite" width="48" /> | <img src="https://skillicons.dev/icons?i=bootstrap" width="48" /> |
-
-### Backend
-
-| Node.js | Express | MongoDB | Redis | MySQL |
-|---------|---------|---------|-------|--------|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> | <img src="https://skillicons.dev/icons?i=express" width="48" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="48" /> | <img src="https://skillicons.dev/icons?i=redis" width="48" /> | <img src="https://skillicons.dev/icons?i=mysql" width="48" /> |
+| Frontend |  |  |  |  | Backend |  |  |  |  |
+|----------|--|--|--|--|---------|--|--|--|--|
+| React    | TypeScript | Tailwind | Vite | Bootstrap | Node.js | Express | MongoDB | Redis | MySQL |
+| <img src="https://skillicons.dev/icons?i=react" width="48" /> | <img src="https://skillicons.dev/icons?i=ts" width="48" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="48" /> | <img src="https://skillicons.dev/icons?i=vite" width="48" /> | <img src="https://skillicons.dev/icons?i=bootstrap" width="48" /> | <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> | <img src="https://skillicons.dev/icons?i=express" width="48" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="48" /> | <img src="https://skillicons.dev/icons?i=redis" width="48" /> | <img src="https://skillicons.dev/icons?i=mysql" width="48" /> |
 
 ### Tools
 
@@ -86,29 +72,24 @@ Extremely facinated by building EdTech or Community Driven Products
 ### 📊 GitHub Analytics 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=vanhuy2005&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhuy2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhuy2005&layout=compact&theme=dracula&hide_border=true&langs_count=6&bg_color=0D1117" />
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhuy2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160px" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanhuy2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160px" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhuy2005&theme=dracula&hide_border=true&background=0D1117" />
+  <img src="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=vanhuy2005&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </div>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanhuy2005&label=TRAFFIC+MONITOR&style=flat-square&color=00f2ff" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221362873-88e47976-3787-4884-914a-c33c21f800e1.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ```
