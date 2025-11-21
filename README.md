@@ -42,11 +42,25 @@ Extremely facinated by building EdTech or Community Driven Products
 > Status: ONLINE && READY_TO_COLLABORATE 🟢
 ```
 
-## 🏆 2024 Contributions Skyline
+## 🏆 GitHub Activity
+
 <div align="center">
-  <img src="https://skyline.github.com/vanhuy2005/2024.svg" width="100%" alt="2024 Skyline" />
-  <br/>
-  <p align="center"><i>(Biểu đồ đóng góp code được dựng thành mô hình 3D)</i></p>
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="bottom">
+         <b>3D Contribution</b><br/><br/>
+         <a href="https://github.com/vanhuy2005/vanhuy2005">
+            <img src="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+         </a>
+      </td>
+      <td width="50%" align="center" valign="bottom">
+         <b>Contribution Snake</b><br/><br/>
+         <a href="https://github.com/vanhuy2005/vanhuy2005">
+            <img src="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake.svg" width="100%" />
+         </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
