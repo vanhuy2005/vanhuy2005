@@ -74,24 +74,21 @@ Extremely facinated by building EdTech or Community Driven Products
   </table>
 </div>
 
-### 🚀 Featured Deployments
-
+### 🚀 GitHub Projects
 <div align="center">
 
 <a href="https://github.com/vanhuy2005/memo-hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanhuy2005&repo=memo-hub&theme=tokyonight&title_color=fe428e&icon_color=fe428e&border_radius=10&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanhuy2005&repo=memo-hub&theme=tokyonight&title_color=fe428e&icon_color=fe428e&text_color=9f9f9f&bg_color=0d1117&hide_border=true" />
 </a>
 <a href="https://github.com/vanhuy2005/english-center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanhuy2005&repo=english-center&theme=tokyonight&title_color=2f8f00&icon_color=2f8f00&border_radius=10&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanhuy2005&repo=english-center&theme=tokyonight&title_color=2f8f00&icon_color=2f8f00&text_color=9f9f9f&bg_color=0d1117&hide_border=true" />
 </a>
-
-<br/> <br/>
 
 <a href="https://github.com/vanhuy2005/real-time-chat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanhuy2005&repo=real-time-chat&theme=tokyonight&title_color=f8d866&icon_color=f8d866&border_radius=10&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanhuy2005&repo=real-time-chat&theme=tokyonight&title_color=f8d866&icon_color=f8d866&text_color=9f9f9f&bg_color=0d1117&hide_border=true" />
 </a>
-<a href="https://github.com/vanhuy2005/vanhuy2005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanhuy2005&repo=vanhuy2005&theme=tokyonight&title_color=0d6efd&icon_color=0d6efd&border_radius=10&bg_color=0d1117" />
+<a href="https://github.com/vanhuy2005/fresh-fruit-web">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanhuy2005&repo=fresh-fruit-web&theme=tokyonight&title_color=a371f7&icon_color=a371f7&text_color=9f9f9f&bg_color=0d1117&hide_border=true" />
 </a>
 
 </div>
