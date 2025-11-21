@@ -43,7 +43,11 @@ Extremely facinated by building EdTech or Community Driven Products
 ```
 ## 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vanhuy2005&theme=onedark&row=1&no-frame=true" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vanhuy2005&theme=gitdimmed&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
 
 ## 🧠 Tech Stack
 | Frontend | Backend |
@@ -82,7 +86,6 @@ Extremely facinated by building EdTech or Community Driven Products
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhuy2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://streak-stats.demolab.com/?user=vanhuy2005&theme=tokyonight" alt="GitHub Streak" />
 
   <br/><br/>
 
