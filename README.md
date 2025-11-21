@@ -41,85 +41,58 @@ Extremely facinated by building EdTech or Community Driven Products
   [-_] Improving language skill 🌏
 > Status: ONLINE && READY_TO_COLLABORATE 🟢
 ```
-## 🏆 Achievements
+
+## 🏆 2024 Contributions Skyline
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vanhuy2005&theme=gitdimmed&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
-  </a>
+  <img src="https://skyline.github.com/vanhuy2005/2024.svg" width="100%" alt="2024 Skyline" />
+  <br/>
+  <p align="center"><i>(Biểu đồ đóng góp code được dựng thành mô hình 3D)</i></p>
 </div>
 
 
 ## 🛠️ Tech Stack
-<div align="center"> <table> <tr> <td align="center" width="35%"><b>Frontend</b></td> <td align="center" width="35%"><b>Backend & DB</b></td> <td align="center" width="30%"><b>Tools</b></td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons%3Fi%3Dts,js,react,vite,tailwind,bootstrap%26perline%3D3" /> </td> <td align="center"> <img src="https://skillicons.dev/icons%3Fi%3Dnodejs,express,mongodb,mysql,redis%26perline%3D3" /> </td> <td align="center"> <img src="q=https://skillicons.dev/icons%3Fi%3Dgit,postman,figma,trello%26perline%3D2" /> </td> </tr> </table> </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="35%"><b>Frontend</b></td>
+      <td align="center" width="35%"><b>Backend & DB</b></td>
+      <td align="center" width="30%"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,bootstrap&perline=3" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&perline=3" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,postman,figma,trello&perline=2" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🚀 Featured Deployments
 
-> #### 🧠 [Memo Hub](https://github.com/vanhuy2005/memo-hub) | *Smart Vocabulary Platform*
->
-> A gamified application designed to optimize long-term memory retention using the **Spaced Repetition Algorithm (SM-2)**. It tackles the forgetting curve through analytical scheduling of reviews.
->
-> <br/>
->
-> 🛠️ **Tech Stack:**
-> ![MERN](https://img.shields.io/badge/MERN_Stack-000000?style=flat-square&logo=mongodb&logoColor=white)
-> ![Redis](https://img.shields.io/badge/Redis-Caching-DC382D?style=flat-square&logo=redis&logoColor=white)
-> ![BullMQ](https://img.shields.io/badge/BullMQ-Job_Queue-orange?style=flat-square)
->
-> <br/>
->
-> 🎯 **Key Features:** `Gamification Elements` `Analytics Dashboard` `SM-2 Implementation`
->
-> <div align="right">
->   <a href="YOUR_LIVE_DEMO_LINK">
->     <img src="https://img.shields.io/badge/View_Live_Demo_🔴-FF5722?style=for-the-badge" height="28" />
->   </a>
-> </div>
+<div align="center">
 
-<br/>
+<a href="https://github.com/vanhuy2005/memo-hub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanhuy2005&repo=memo-hub&theme=tokyonight&title_color=fe428e&icon_color=fe428e&border_radius=10&bg_color=0d1117" />
+</a>
+<a href="https://github.com/vanhuy2005/english-center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanhuy2005&repo=english-center&theme=tokyonight&title_color=2f8f00&icon_color=2f8f00&border_radius=10&bg_color=0d1117" />
+</a>
 
-> #### 💬 [Instant Connect](https://github.com/vanhuy2005/real-time-chat) | *Real-time Messaging App*
->
-> A robust chatting application engineered for low-latency communication. It supports dynamic room creation, secure authentication, and persistent message history using WebSockets.
->
-> <br/>
->
-> 🛠️ **Tech Stack:**
-> ![NodeJS](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-> ![Socket.io](https://img.shields.io/badge/Socket.io-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-> ![React](https://img.shields.io/badge/React-Frontend-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-> ![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
->
-> <br/>
->
-> <div align="right">
->   <a href="YOUR_LIVE_DEMO_LINK">
->     <img src="https://img.shields.io/badge/View_Live_Demo_🔴-FF5722?style=for-the-badge" height="28" />
->   </a>
-> </div>
+<br/> <br/>
 
-<br/>
+<a href="https://github.com/vanhuy2005/real-time-chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanhuy2005&repo=real-time-chat&theme=tokyonight&title_color=f8d866&icon_color=f8d866&border_radius=10&bg_color=0d1117" />
+</a>
+<a href="https://github.com/vanhuy2005/vanhuy2005">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanhuy2005&repo=vanhuy2005&theme=tokyonight&title_color=0d6efd&icon_color=0d6efd&border_radius=10&bg_color=0d1117" />
+</a>
 
-> #### 📘 [English Center CRM](https://github.com/vanhuy2005/english-center) | *EdTech Management System*
->
-> A comprehensive CRM tailored for educational institutions to streamline administrative workflows. It handles the entire lifecycle from student enrollment and scheduling to tuition tracking.
->
-> <br/>
->
-> 🛠️ **Tech Stack:**
-> ![React](https://img.shields.io/badge/React-Frontend-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-> ![Express](https://img.shields.io/badge/Express-API-000000?style=flat-square&logo=express&logoColor=white)
-> ![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white)
->
-> <br/>
->
-> 🎯 **Key Features:** `Student Enrollment` `Class Scheduling` `Tuition Tracking` `Teacher Management`
->
-> <div align="right">
->   <a href="YOUR_LIVE_DEMO_LINK">
->     <img src="https://img.shields.io/badge/View_Live_Demo_🔴-FF5722?style=for-the-badge" height="28" />
->   </a>
-> </div>
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/221362873-88e47976-3787-4884-914a-c33c21f800e1.gif" width="100%"> </div>
+</div>
 
 ### 📊 GitHub Analytics 
 
