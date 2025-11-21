@@ -49,22 +49,18 @@ Extremely facinated by building EdTech or Community Driven Products
 </div>
 
 
-## 🧠 Tech Stack
-| Frontend | Backend |
-|----------|---------|
-| <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="48" /> 
-  <img src="https://skillicons.dev/icons?i=ts" width="48" /> 
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" /> 
-  <img src="https://skillicons.dev/icons?i=vite" width="48" /> 
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" />
-</div> | <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> 
-  <img src="https://skillicons.dev/icons?i=express" width="48" /> 
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" /> 
-  <img src="https://skillicons.dev/icons?i=redis" width="48" /> 
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
-</div> |
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js" height="40" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" /> |
+| **Database & Cache** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" height="40" /> |
+
+</div>
 
 ### Tools
 
