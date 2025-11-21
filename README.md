@@ -49,33 +49,76 @@ Extremely facinated by building EdTech or Community Driven Products
 </div>
 
 
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<div align="center">
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js" height="40" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" height="40" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" /> |
-| **Database & Cache** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" height="40" /> |
-
-</div>
-
-### Tools
-
-| Git | Postman | Figma | Trello |
-|------|---------|--------|---------|
-| <img src="https://skillicons.dev/icons?i=git" width="48" /> | <img src="https://skillicons.dev/icons?i=postman" width="48" /> | <img src="https://skillicons.dev/icons?i=figma" width="48" /> | <img src="https://skillicons.dev/icons?i=trello" width="48" /> |
+## 🛠️ Tech Stack
+<div align="center"> <table> <tr> <td align="center" width="35%"><b>Frontend</b></td> <td align="center" width="35%"><b>Backend & DB</b></td> <td align="center" width="30%"><b>Tools</b></td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons%3Fi%3Dts,js,react,vite,tailwind,bootstrap%26perline%3D3" /> </td> <td align="center"> <img src="https://skillicons.dev/icons%3Fi%3Dnodejs,express,mongodb,mysql,redis%26perline%3D3" /> </td> <td align="center"> <img src="q=https://skillicons.dev/icons%3Fi%3Dgit,postman,figma,trello%26perline%3D2" /> </td> </tr> </table> </div>
 
 ### 🚀 Featured Deployments
 
-| Project | Description | Core Tech |
-| :--- | :--- | :--- |
-| **🧠 [Memo Hub](https://github.com/vanhuy2005/memo-hub)** | Smart vocabulary platform using **Spaced Repetition (SM-2)**. Gamified & analytical. | `MERN` `Redis` `BullMQ` |
-| **💬 [Real-time Chat](https://github.com/vanhuy2005/real-time-chat)** |  Instant messaging with live sockets, rooms, and secure auth. | `NodeJS` `Socket.io` `React` |
-| **📘 [English Center](https://github.com/vanhuy2005/english-center)** | Comprehensive EdTech CRM: Enrollment, scheduling & tuition tracking. | `React` `Express` `MongoDB` |
+> #### 🧠 [Memo Hub](https://github.com/vanhuy2005/memo-hub) | *Smart Vocabulary Platform*
+>
+> A gamified application designed to optimize long-term memory retention using the **Spaced Repetition Algorithm (SM-2)**. It tackles the forgetting curve through analytical scheduling of reviews.
+>
+> <br/>
+>
+> 🛠️ **Tech Stack:**
+> ![MERN](https://img.shields.io/badge/MERN_Stack-000000?style=flat-square&logo=mongodb&logoColor=white)
+> ![Redis](https://img.shields.io/badge/Redis-Caching-DC382D?style=flat-square&logo=redis&logoColor=white)
+> ![BullMQ](https://img.shields.io/badge/BullMQ-Job_Queue-orange?style=flat-square)
+>
+> <br/>
+>
+> 🎯 **Key Features:** `Gamification Elements` `Analytics Dashboard` `SM-2 Implementation`
+>
+> <div align="right">
+>   <a href="YOUR_LIVE_DEMO_LINK">
+>     <img src="https://img.shields.io/badge/View_Live_Demo_🔴-FF5722?style=for-the-badge" height="28" />
+>   </a>
+> </div>
 
+<br/>
+
+> #### 💬 [Instant Connect](https://github.com/vanhuy2005/real-time-chat) | *Real-time Messaging App*
+>
+> A robust chatting application engineered for low-latency communication. It supports dynamic room creation, secure authentication, and persistent message history using WebSockets.
+>
+> <br/>
+>
+> 🛠️ **Tech Stack:**
+> ![NodeJS](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+> ![Socket.io](https://img.shields.io/badge/Socket.io-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+> ![React](https://img.shields.io/badge/React-Frontend-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+> ![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+>
+> <br/>
+>
+> <div align="right">
+>   <a href="YOUR_LIVE_DEMO_LINK">
+>     <img src="https://img.shields.io/badge/View_Live_Demo_🔴-FF5722?style=for-the-badge" height="28" />
+>   </a>
+> </div>
+
+<br/>
+
+> #### 📘 [English Center CRM](https://github.com/vanhuy2005/english-center) | *EdTech Management System*
+>
+> A comprehensive CRM tailored for educational institutions to streamline administrative workflows. It handles the entire lifecycle from student enrollment and scheduling to tuition tracking.
+>
+> <br/>
+>
+> 🛠️ **Tech Stack:**
+> ![React](https://img.shields.io/badge/React-Frontend-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+> ![Express](https://img.shields.io/badge/Express-API-000000?style=flat-square&logo=express&logoColor=white)
+> ![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white)
+>
+> <br/>
+>
+> 🎯 **Key Features:** `Student Enrollment` `Class Scheduling` `Tuition Tracking` `Teacher Management`
+>
+> <div align="right">
+>   <a href="YOUR_LIVE_DEMO_LINK">
+>     <img src="https://img.shields.io/badge/View_Live_Demo_🔴-FF5722?style=for-the-badge" height="28" />
+>   </a>
+> </div>
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/221362873-88e47976-3787-4884-914a-c33c21f800e1.gif" width="100%"> </div>
 
 ### 📊 GitHub Analytics 
