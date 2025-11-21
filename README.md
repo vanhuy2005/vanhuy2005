@@ -40,6 +40,7 @@
   [📚] Enhancing English Proficiency 🌏
 > --------------------------------------------------
 > Status:        ONLINE && READY_TO_COLLABORATE 🟢
+```
 
 ## 🛠️ Tech Stack
 <div align="center">
