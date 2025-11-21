@@ -45,22 +45,10 @@ Extremely facinated by building EdTech or Community Driven Products
 ## 🏆 GitHub Activity
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center" valign="bottom">
-         <b>3D Contribution</b><br/><br/>
-         <a href="https://github.com/vanhuy2005/vanhuy2005">
-            <img src="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-         </a>
-      </td>
-      <td width="50%" align="center" valign="bottom">
-         <b>Contribution Snake</b><br/><br/>
-         <a href="https://github.com/vanhuy2005/vanhuy2005">
-            <img src="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake.svg" width="100%" />
-         </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/vanhuy2005/vanhuy2005">
+    <img src="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
+  </a>
+  <br/>
 </div>
 
 
