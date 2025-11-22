@@ -38,7 +38,7 @@
 <ul>
     <li><b>Background:</b> I'm a <b> Junior IT student at the Ho Chi Minh University of Pedagogy</b>, so it educates and help me to realize many things, especially the gaps and strugles between the traditional education and the modern era. That is the reason why I'm learning and focusing on develop software programs to make teaching and learning easier and more effective.</li>
     <li><b>Philosophy:</b> <b>Functionality over Flashiness</b>. I focus on building systems that are fast, stable and easy to scale up. However, it should look good (in the eyes of customers) and work perfectly first.</li>
-    <li><b>Current Goal:</b> Graduating with <b>High Distinction</b> and becoming a skilled <b>Full-stack Developer</b> to ready for enterprise challenges. .</li>
+    <li><b>Current Goal:</b> Graduating with <b>High Distinction</b> and becoming a skilled <b>Full-stack Developer</b> to ready for enterprise challenges.</li>
 </ul>
 
 <h3>🧬 About Me</h3>
