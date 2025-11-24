@@ -162,5 +162,5 @@
 <br/>
 
 <div align="center">
-  <h3>Show some ❤️ by starring some of the repositories!</h3>
+  <h3>Show some ❤️ by starring some of the repositories! Thankss!!!</h3>
 </div>
