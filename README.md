@@ -44,7 +44,7 @@
 <h3>🧬 About Me</h3>
 <ul>
     <li><b>Personality:</b> I am straightforward and value transparency. I focus on <b>fixing the problems</b> and moving forward rather than dwelling on the past.</li>
-    <li><b>Lifestyle:</b> I prefer real-world interactions over video games. My free time is dedicated to the <b>Gym 🏋️</b> and enjoying good food 🍜 with my loved ones.</li>
+    <li><b>Lifestyle:</b> I prefer real-world interactions over video games. My free time is dedicated to the <b>Gym 🏋️</b> and enjoying good food and stunning landscape 🍜 with my bae.</li>
     <li><b>Interests:</b> Deeply interested in Asian cultures (China & Japan) and constantly improving my foreign language skills.</li>
 </ul>
 
