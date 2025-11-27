@@ -52,7 +52,7 @@
 <p>
   <img src="https://img.shields.io/badge/English-IELTS_6.5-000000?style=flat-square&logo=google-translate&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Chinese-Beginner_(HSK3)-000000?style=flat-square&logo=duolingo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chinese-Beginner-000000?style=flat-square&logo=duolingo&logoColor=white" />
 </p>
 <blockquote>
   <i>"Work hard in silence, let your success be your noise."</i>
