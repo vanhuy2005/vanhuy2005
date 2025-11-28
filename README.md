@@ -81,7 +81,7 @@
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Tools-Git_&_More-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Tools" />
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=git,postman,figma,trello&perline=2" />
+        <img src="https://skillicons.dev/icons?i=git,postman,figma" />
       </td>
     </tr>
   </table>
