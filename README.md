@@ -124,7 +124,7 @@
 
 <details>
   <summary>
-    <b>Netflix Clone | React 19, Vite, Tailwind CSS, Framer Motion, Firebase (Auth, Firestore) | <i>Dec 2025</i> </b>
+    <b>Netflix Clone | React 19, Vite, Tailwind CSS, Framer Motion, Firebase (Auth, Firestore) | <i></i> </b>
   </summary>
   <br/>
   <div align="justify">
@@ -157,7 +157,7 @@
 
 <details>
   <summary>
-    <b>ChatHub (Real-time System) | React, Zustand, Socket.io, Node.js, Express, MongoDB | <i>Nov 2025</i></b>
+    <b>ChatHub (Real-time System) | React, Zustand, Socket.io, Node.js, Express, MongoDB | <i></i></b>
   </summary>
   <br/>
   <div align="justify">
@@ -191,7 +191,7 @@
 
 <details>
   <summary>
-    <b>FruitHub (E-Commerce) | React 19, Vite, Tailwind CSS, Context API, Node.js, MongoDB | <i>Oct 2025</i></b>
+    <b>FruitHub (E-Commerce) | React 19, Vite, Tailwind CSS, Context API, Node.js, MongoDB | <i></i></b>
   </summary>
   <br/>
   <div align="justify">
@@ -223,7 +223,7 @@
 
 <details>
   <summary>
-    <b>MemoHub (EdTech Platform) | Node.js, Express, MongoDB, Redis, Spaced Repetition (SM-2) | <i>Sep 2025</i></b>
+    <b>MemoHub (EdTech Platform) | Node.js, Express, MongoDB, Redis, Spaced Repetition (SM-2) | <i></i></b>
   </summary>
   <br/>
   <div align="justify">
@@ -255,7 +255,7 @@
 
 <details>
   <summary>
-    <b>Static E-Commerce Page | Semantic HTML5, CSS3 (Flexbox/Grid), Vanilla JavaScript | <i>Aug 2025</i></b>
+    <b>Static E-Commerce Page | Semantic HTML5, CSS3 (Flexbox/Grid), Vanilla JavaScript | <i></i></b>
   </summary>
   <br/>
   <div align="justify">
