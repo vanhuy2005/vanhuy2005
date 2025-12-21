@@ -22,7 +22,7 @@
     <a href="https://www.facebook.com/nguyenvanquang.huy.522" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
     </a>
-    <a href="NGUYEN VAN QUANG HUY (2).pdf" target="_blank">
+    <a href="[CV][Nguyễn Văn Quang Huy].pdf" target="_blank">
       <img src="https://img.shields.io/badge/CV_/_Resume-222222?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=FF0000" alt="CV" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=vanhuy2005&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile views" />
