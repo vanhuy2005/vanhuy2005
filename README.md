@@ -4,7 +4,6 @@
 
 <div align="center">
   <h3> FRONTEND DEVELOPER INTERNSHIP </h3>
-  <i>"Bridging the gap between Pedagogy and Technology"</i>
   <br/>
   <i>"Extremely fascinated by EdTech & Community-Driven Products"</i>
   <br/>
@@ -38,32 +37,17 @@
 <br/>
 
 <div align="center">
-  <h3>MY VISION AND GOALS</h3>
-</div>
-
-<div align="justify">
-  <ul>
-    <li>For now Dec 2025, I'm still a Junior IT student at the Ho Chi Minh University of Pedagogy, however, my college has educated and helped me lots, not only about dry technical skills, but also about the way how to become a good person who has abilities to contribute to society.</li>
-    <li>Furthermore, learning in this place provides me a chance to figure out the gaps and struggles between traditional education and the modern era. As a result, I'm learning and focusing on developing software programs to make teaching and learning easier and more effective.</li>
-    <li>About engineering value, personally, I commit that building systems that are fast, stable, and easy to scale up is much more important. However, it should look good (in the eyes of customers) and work perfectly first.</li>
-    <li>For the long-term goal of myself, it should be a graduation with high distinction and becoming a skillful Full-stack Developer, who is ready for enterprise challenges.</li>
-    <li>But for now, mastering JS + having HSK3 certification and a car driving license are my priority.</li>
-  </ul>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
-</div>
-
-<div align="center">
   <h3>ABOUT ME</h3>
 </div>
 
 <div align="justify">
   <ul>
-    <li>Personally, I consider myself as a straightforward and value-transparent person. Thus, I always focus more on fixing problems and moving forward rather than dwelling on the past.</li>
-    <li>Some fun facts about my lifestyle: I extremely prefer real-world interactions over video games. When I turn on my PC, it will probably be for checking Gmail. Not only in my free time, but it's like a part of my life. Hitting the gym is my dedication, besides enjoying good food and stunning landscapes with my bae is the motivation for me to be a hustler.</li>
-    <li>And yes for entertainment, likely to other IT student I was always thrive in asian cultures, such as china and japan, specificly anime.</li>
+    <li>Hi, my name is Nguyen Van Quang Huy. You can call me Huy Nguyen or Van Huy.</li>
+    <li>I’m an Information Technology undergraduate at Ho Chi Minh City University of Education, with a strong interest in full-stack web development and building practical, scalable products..</li>
+    <li>Regarding my strengths, I have a solid foundation in frontend development and UX design, working primarily with JavaScript and React, along with modern UI and animation libraries such as TailwindCSS, Framer Motion, and GSAP. On the backend, I build APIs and services using Node.js and Express, with MongoDB and PostgreSQL as my main databases.</li>
+    <li>Additionally, the most crucial thing set me apart from other candidates is my long-term mindset and consistency. I'm using my passion in technology and my purpose for a dream life to fuel me day by day, pushing forward through any challenges rather than avoiding them.</li>
+    <li>For me, I valued the work-life balance and continuous development. Exemplified through my lifestyle and habits, aside from studying at school, I am still hitting the gym and learning new languages.</li>
+    <li>Thanks for reading. Always open to learning, connecting, and contributing to meaningful projects.</li>
   </ul>
 </div>
 
@@ -72,7 +56,7 @@
 </div>
 
 <div align="center">
-  <h3>GLOBAL MINDSET</h3>
+  <h3>LANGUAGES</h3>
   <p>
     <img src="https://img.shields.io/badge/English-IELTS_6.5-000000?style=flat-square&logo=google-translate&logoColor=white" />
     &nbsp;
