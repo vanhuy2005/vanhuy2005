@@ -1,308 +1,161 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:242424&height=220&text=QUANG%20HUY&fontSize=70&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
-</div>
+## Hi, I'm Nguyen Van Quang Huy 👋
 
-<div align="center">
-  <h3> FRONTEND DEVELOPER INTERNSHIP </h3>
-  <br/>
-  <i>"Extremely fascinated by EdTech & Community-Driven Products"</i>
-  <br/>
-  <i>"Don't just write code, instead building up useful production"</i>
-    
-  <br/><br/>
+📍 Ho Chi Minh City | 🎓 Third-year IT Student @ HCMC University of Education | 🔍 Seeking Internship
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-v%C4%83n-quang-huy-21684b2b6/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:nguyen.van.quang.huy.2105@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://www.facebook.com/nguyenvanquang.huy.522" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="[CV][Nguyễn Văn Quang Huy].png" target="_blank">
-      <img src="https://img.shields.io/badge/CV_/_Resume-222222?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=FF0000" alt="CV" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=vanhuy2005&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile views" />
-  </div>
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socketdotio&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=black) ![Zustand](https://img.shields.io/badge/-Zustand-453F39?style=flat) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
-<br/>
+> Future full-stack web developer. Currently focused on **UI/UX & front-end**. Shipped .... — with measurable results: ....
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>ABOUT ME</h3>
-</div>
-
-<div align="justify">
-  <ul>
-    <li>Hi, my name is Nguyen Van Quang Huy. You can call me Huy Nguyen or Van Huy.</li>
-    <li>I’m an Information Technology undergraduate at Ho Chi Minh City University of Education, with a strong interest in full-stack web development and building practical, scalable products..</li>
-    <li>Regarding my strengths, I have a solid foundation in frontend development and UX design, working primarily with JavaScript and React, along with modern UI and animation libraries such as TailwindCSS, Framer Motion, and GSAP. On the backend, I build APIs and services using Node.js and Express, with MongoDB and PostgreSQL as my main databases.</li>
-    <li>Additionally, the most crucial thing set me apart from other candidates is my long-term mindset and consistency. I'm using my passion in technology and my purpose for a dream life to fuel me day by day, pushing forward through any challenges rather than avoiding them.</li>
-    <li>For me, I valued the work-life balance and continuous development. Exemplified through my lifestyle and habits, aside from studying at school, I am still hitting the gym and learning new languages.</li>
-    <li>Thanks for reading. Always open to learning, connecting, and contributing to meaningful projects.</li>
-  </ul>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
-</div>
-
-<div align="center">
-  <h3>LANGUAGES</h3>
-  <p>
-    <img src="https://img.shields.io/badge/English-IELTS_6.5-000000?style=flat-square&logo=google-translate&logoColor=white" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Chinese-Beginner-000000?style=flat-square&logo=duolingo&logoColor=white" />
-  </p>
-  <blockquote>
-    <i>"Work hard in silence, let your success be your noise."</i>
-  </blockquote>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>SOLID KNOWLEDGE ABOUT</h3>
-   
-  <b>Front End Development</b>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,bootstrap" height="40" alt="Frontend Skills" />
-   
-
-  <b>Back End & Database</b>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="40" alt="Backend Skills" />
-   
-
-  <b>Tools & Workflow</b>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,postman,figma,vscode" height="40" alt="Tools" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
-</div>
-
-
-
-<div align="center">
-  <h3>SOME OF MY WORKS</h3>
-  <p><i>(Click to expand details)</i></p>
-</div>
+> Languages: Vietnamese, English, Chinese (fundamental)
 
 <details>
-  <summary>
-    <b>Netflix Clone | React 19, Vite, Tailwind CSS, Framer Motion, Firebase (Auth, Firestore) | <i></i> </b>
-  </summary>
-  <br/>
-  <div align="justify">
-    <ul>
-      <li>Leveraged React 19 and Vite to engineer a scalable Multi-Profile Architecture, allowing users to maintain distinct watch histories and settings within a single account, mimicking the complex data relationships of the original platform.</li>
-      <li>Solved the browser's strict Autoplay Policy by implementing a robust "Cinematic Splash" fallback mechanism, ensuring a seamless intro experience across all devices without blocking user navigation.</li>
-      <li>Designed a hierarchical Firestore NoSQL schema (users/uid/profiles) combined with Real-time Listeners to synchronize the "My List" instantly across sessions, achieving sub-100ms latency for data updates.</li>
-      <li>Optimized First Contentful Paint (FCP) for heavy-media pages by applying Code Splitting and Lazy Loading for images/videos. Integrated Debouncing techniques on search inputs to reduce API overhead by ~40% and prevent race conditions.</li>
-      <li>Orchestrated complex micro-interactions and layout transitions (Shared Element Transition) using Framer Motion, delivering a fluid 60fps user interface that rivals native application performance.</li>
-    </ul>
-  </div>
+  
+<summary>Certification</summary>
 
-  <br/>
-  <details>
-    <summary>📸 <b>Click here to see Project Screenshots (UI Preview)</b></summary>
-    <br/>
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/vanhuy2005/netflix/main/public/preview-image.png" alt="Netflix Home UI" width="100%" />
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/vanhuy2005/netflix/main/public/preview-mobile.png" alt="Responsive Mobile UI" width="45%" />
-      <img src="https://raw.githubusercontent.com/vanhuy2005/netflix/main/public/preview-profile.png" alt="Profile Selection UI" width="45%" />
-    </div>
-  </details>
-   
-  <p align="center">
-    <a href="http://bit.ly/4boixHB"><b>Live Demo</b></a> &nbsp;|&nbsp; 
-    <a href="https://github.com/vanhuy2005/netflix"><b>Source Code</b></a>
-  </p>
+
+> Foundation of UX designer verified by Google
+>
+
+</details> 
+
+📫 [nguyen.van.quang.huy.2105@gmail.com](mailto:nguyen.van.quang.huy.2105@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nguy%E1%BB%85n-v%C4%83n-quang-huy-21684b2b6/) · [CV]([CV][Nguyễn Văn Quang Huy].png)
+
+### Current Projects
+
+<details>
+<summary>🎬 <b>Netflix Clone</b> — Multi-profile streaming UI with real-time sync</summary>
+
+> React 19 · Firebase · Framer Motion · Tailwind CSS
+
+- Hierarchical Firestore schema (`users/uid/profiles`) — independent watch history per profile
+- Real-time "My List" sync — **sub-100ms latency**
+- Code splitting + debounced search — **~40% less API overhead**
+- Shared element transitions at **60fps**
+
+[Live Demo](http://bit.ly/4boixHB) · [Source](https://github.com/vanhuy2005/netflix)
+
+<img src="https://raw.githubusercontent.com/vanhuy2005/netflix/main/public/preview-image.png" width="100%" />
 </details>
 
 <details>
-  <summary>
-    <b>ChatHub (Real-time System) | React, Zustand, Socket.io, Node.js, Express, MongoDB | <i></i></b>
-  </summary>
-  <br/>
-  <div align="justify">
-    <ul>
-      <li>Engineered a low-latency bi-directional communication channel using Socket.io to handle instant messaging and typing indicators. Adopted Zustand for global state management to handle high-frequency store updates efficiently, resolving the "Zombie Child" re-render performance bottlenecks common in Context API.</li>
-      <li>Implemented Optimistic UI Updates to render messages immediately on the sender's interface before server acknowledgment, creating a "zero-latency" feeling. Designed Skeleton Loaders to prevent Cumulative Layout Shift (CLS) during initial data fetching.</li>
-      <li>Hardened authentication security by storing JWT tokens in HTTP-Only Cookies to mitigate XSS attacks. Designed a robust MongoDB schema for message persistence and integrated Cloudinary for optimized media storage and delivery.</li>
-      <li>Integrated DaisyUI to offer a highly customizable interface with 32 dynamic color themes, allowing users to personalize their experience while maintaining a consistent design system across the application.</li>
-    </ul>
-  </div>
+<summary>💬 <b>ChatHub</b> — Real-time messaging with 32 themes</summary>
 
-  <br/>
-  <details>
-    <summary><b>Click here to see Project Screenshots (UI Preview)</b></summary>
-    <br/>
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/vanhuy2005/real-time-chat/main/frontend/public/chat-hub-logo-2.png" alt="ChatHub Logo" width="30%" />
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/vanhuy2005/real-time-chat/main/screenshots/chat-interface.png" alt="Chat Interface" width="100%" />
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/vanhuy2005/real-time-chat/main/screenshots/login-page.png" alt="Login Page" width="45%" />
-      <img src="https://raw.githubusercontent.com/vanhuy2005/real-time-chat/main/screenshots/themes-demo.png" alt="Theme Selection" width="45%" />
-    </div>
-  </details>
-   
-  <p align="center">
-    <a href="https://real-time-chat-v1.onrender.com"><b>Live Demo</b></a> &nbsp;|&nbsp; 
-    <a href="https://github.com/vanhuy2005/real-time-chat"><b>Source Code</b></a>
-  </p>
+> Socket.io · Zustand · Node.js · Express · MongoDB
+
+- WebSocket messaging + typing indicators
+- Optimistic UI — messages render before server confirms
+- JWT in HTTP-Only cookies (XSS-hardened) + Cloudinary media
+- Zero cumulative layout shift via skeleton loaders
+
+[Live Demo](https://real-time-chat-v1.onrender.com) · [Source](https://github.com/vanhuy2005/real-time-chat)
+
+<img src="https://raw.githubusercontent.com/vanhuy2005/real-time-chat/main/screenshots/chat-interface.png" width="100%" />
 </details>
 
 <details>
-  <summary>
-    <b>FruitHub (E-Commerce) | React 19, Vite, Tailwind CSS, Context API, Node.js, MongoDB | <i></i></b>
-  </summary>
-  <br/>
-  <div align="justify">
-    <ul>
-      <li>Leveraged the latest features of React 19 and Vite to build a high-performance Single Page Application (SPA). Centralized complex shopping cart logic (add, remove, quantity adjustment) using Context API combined with useReducer, ensuring predictable state management without external dependencies.</li>
-      <li>Engineered Role-Based Access Control (RBAC) by creating reusable Protected Route components, ensuring that sensitive Admin dashboards (Product/Order Management) are strictly accessible only to authorized personnel via JWT verification.</li>
-      <li>Integrated Cloudinary for efficient image hosting and transformation, offloading media storage from the main server to improve load times and reduce bandwidth costs for the application.</li>
-      <li>Designed a RESTful API with advanced features like server-side pagination and sorting. Implemented Debounced Search and client-side filtering to provide an instant product discovery experience, significantly enhancing user engagement.</li>
-    </ul>
-  </div>
+<summary>📚 <b>MemoHub</b> — EdTech with spaced repetition (SM-2)</summary>
 
-  <br/>
-  <details>
-    <summary><b>Click here to see Project Screenshots (UI Preview)</b></summary>
-    <br/>
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/vanhuy2005/fresh-fruit-web/main/client/public/home-preview.png" alt="Home Page" width="100%" />
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/vanhuy2005/fresh-fruit-web/main/client/public/cart-preview.png" alt="Shopping Cart" width="45%" />
-      <img src="https://raw.githubusercontent.com/vanhuy2005/fresh-fruit-web/main/client/public/admin-dashboard.png" alt="Admin Dashboard" width="45%" />
-    </div>
-  </details>
-   
-  <p align="center">
-    <a href="#"><b>Live Demo</b></a> &nbsp;|&nbsp; 
-    <a href="https://github.com/vanhuy2005/fresh-fruit-web"><b>Source Code</b></a>
-  </p>
+> Node.js · Express · MongoDB · Redis
+
+- Custom SM-2 algorithm for optimal review intervals
+- Redis leaderboard caching — **90% latency reduction** (500ms → <50ms)
+- MongoDB aggregation pipelines for real-time analytics
+
+[Source](https://github.com/vanhuy2005/memo-hub)
+
+<img src="https://raw.githubusercontent.com/vanhuy2005/memo-hub/main/public/dashboard-preview.png" width="100%" />
 </details>
 
 <details>
-  <summary>
-    <b>MemoHub (EdTech Platform) | Node.js, Express, MongoDB, Redis, Spaced Repetition (SM-2) | <i></i></b>
-  </summary>
-  <br/>
-  <div align="justify">
-    <ul>
-      <li>Engineered a custom JavaScript implementation of the SuperMemo-2 (SM-2) Spaced Repetition Algorithm to mathematically calculate optimal review intervals, directly addressing the "Forgetting Curve" problem and maximizing vocabulary retention for learners.</li>
-      <li>Solved the database read bottleneck on the Global Leaderboard by integrating Redis as a high-speed caching layer. This optimization utilized Redis Sorted Sets to reduce API latency by 90% (dropping from ~500ms to under 50ms) during peak traffic.</li>
-      <li>Architected the backend using the MVC (Model-View-Controller) pattern combined with a Service Layer approach, ensuring the codebase remains modular, testable, and easy to maintain as the application scales.</li>
-      <li>Leveraged advanced MongoDB Aggregation Pipelines ($lookup, $group) to process complex data relationships on the server side, generating real-time learning analytics and progress reports without overloading the client.</li>
-    </ul>
-  </div>
+<summary>🛒 <b>FruitHub</b> — E-commerce with admin dashboard</summary>
 
-  <br/>
-  <details>
-    <summary><b>Click here to see Project Screenshots (UI Preview)</b></summary>
-    <br/>
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/vanhuy2005/memo-hub/main/public/dashboard-preview.png" alt="Dashboard" width="100%" />
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/vanhuy2005/memo-hub/main/public/algorithm-demo.png" alt="Flashcard Review" width="45%" />
-      <img src="https://raw.githubusercontent.com/vanhuy2005/memo-hub/main/public/leaderboard.png" alt="Redis Leaderboard" width="45%" />
-    </div>
-  </details>
-   
-  <p align="center">
-    <a href="#"><b>Live Demo</b></a> &nbsp;|&nbsp; 
-    <a href="https://github.com/vanhuy2005/memo-hub"><b>Source Code</b></a>
-  </p>
+> React 19 · Node.js · Express · MongoDB · Cloudinary
+
+- Cart engine via `useReducer` + Context API
+- Role-Based Access Control with JWT-protected admin routes
+- Server-side pagination, sorting & debounced search
+
+[Source](https://github.com/vanhuy2005/fresh-fruit-web)
+
+<img src="https://raw.githubusercontent.com/vanhuy2005/fresh-fruit-web/main/client/public/home-preview.png" width="100%" />
 </details>
 
 <details>
-  <summary>
-    <b>Static E-Commerce Page | Semantic HTML5, CSS3 (Flexbox/Grid), Vanilla JavaScript | <i></i></b>
-  </summary>
-  <br/>
-  <div align="justify">
-    <ul>
-      <li>Mastered the core CSS Box Model and modern layout systems (Flexbox, Grid) to construct a pixel-perfect, accessible user interface from scratch, demonstrating the ability to build complex layouts without relying on heavy CSS frameworks like Bootstrap.</li>
-      <li>Ensured seamless cross-device compatibility by implementing a Mobile-First approach using Media Queries and fluid typography (rem/em), guaranteeing the interface renders perfectly across mobile, tablet, and desktop viewports.</li>
-      <li>Deepened understanding of the browser rendering engine by writing clean, modular Vanilla JavaScript to handle DOM manipulations and Event Propagation (Bubbling/Capturing) manually, creating a solid foundation for learning modern frameworks later.</li>
-    </ul>
-  </div>
+<summary>� <b>HCMUE Career Hub</b> — Alumni networking platform for education students</summary>
 
-  <br/>
-  <details>
-    <summary><b>Click here to see Project Screenshots (UI Preview)</b></summary>
-    <br/>
-    <div align="center">
-      <img src="https://raw.githubusercontent.com/vanhuy2005/static-ecommerce/main/preview-desktop.png" alt="Desktop UI" width="100%" />
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/vanhuy2005/static-ecommerce/main/preview-mobile.png" alt="Mobile UI" width="30%" />
-    </div>
-  </details>
-   
-  <p align="center">
-    <a href="#"><b>Source Code</b></a>
-  </p>
+> PHP · Laravel · MySQL
+
+- Connects current HCMC University of Education students with alumni for mentoring & career guidance
+- Profile setup system with education history, skills, and career interests
+- 1-on-1 real-time messaging for private mentorship conversations
+- Alumni directory with search & filtering by graduation year, major, and industry
+
+_Private repository_
+
 </details>
 
+<details>
+<summary>🍽️ <b>ScanToOrder</b> — Digital menu & kitchen management for restaurants</summary>
 
-<br/>
+> React · Node.js · PostgreSQL · Socket.io
+
+- QR-based digital menu — customers scan, browse, and order from their phone
+- Real-time order pipeline connecting customers → waitstaff → kitchen via WebSocket
+- Kitchen display system with order queue, priority sorting, and completion tracking
+- Built for mid-scale restaurants — manages multiple tables, split bills, and order history
+
+_Private repository_
+
+</details>
+
+<details>
+<summary>🏫 <b>English Center</b> — Management system with 6-role access control</summary>
+
+> React 18 · Node.js · Express · MongoDB · Tailwind CSS · Material-UI
+
+- Comprehensive management: students, teachers, courses, classes, attendance, scheduling
+- 6-role RBAC: Director, Academic Staff, Accountant, Enrollment Staff, Teacher, Student
+- Financial module: tuition tracking, receipts, revenue reports, debt monitoring
+- Interactive dashboard with Recharts — real-time analytics and Excel/PDF export
+- i18n support (Vietnamese/English) via React i18next
+- Team project (3 contributors)
+
+[Source](https://github.com/vanhuy2005/english-center)
+
+</details>
+
+<details>
+<summary>🚗 <b>EV Router</b> — Smart route planner for electric vehicles in Vietnam</summary>
+
+> Python · Flask · MongoDB · Folium · A\* Algorithm
+
+- A\* heuristic pathfinding algorithm to find optimal EV routes between Vietnamese cities
+- Smart charging strategy — charges only enough to reach the next high-power station, saving wait time
+- Anchor-point system for long North-South routes (Đà Nẵng, Nha Trang) — prevents sea-crossing paths
+- Anti-ghost cost: deduplicates toll station charges from overlapping camera zones
+- Filters: avoid highways, toll stations, or ferries — with real-time cost breakdown (electricity + tolls)
+
+[Source](https://github.com/vanhuy2005/ev-router)
+
+</details>
+
+<details>
+<summary>�🌐 <b>Static E-Commerce</b> — Pure HTML/CSS/JS</summary>
+
+> HTML5 · CSS3 · Vanilla JavaScript
+
+- Pixel-perfect Flexbox + Grid layout, no frameworks
+- Mobile-first responsive design
+- Vanilla JS DOM manipulation & event delegation
+
+[Source](https://github.com/vanhuy2005/static-ecommerce)
+
+<img src="https://raw.githubusercontent.com/vanhuy2005/static-ecommerce/main/preview-desktop.png" width="100%" />
+</details>
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2" width="100%" />
-</div>
-<br/>
-
-<details>
-  <summary><b> Github Stats (Click to expand)</b></summary>
-  <br />
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vanhuy2005&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=000000" height="150px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhuy2005&layout=compact&hide_border=true&langs_count=6&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=000000" height="150px" />
-  </div>
-</details>
-
-<details>
-  <summary><b> Github Streaks </b></summary>
-  <br />
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhuy2005&hide_border=true&background=000000&ring=FE7D37&fire=FE7D37&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" width="90%" />
-  </div>
-</details>
-
-<details>
-  <summary><b> Contribution Graph</b></summary>
-  <br />
-  <div align="center">
-    <a href="https://github.com/vanhuy2005/vanhuy2005">
-      <img src="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-    </a>
-  </div>
-</details>
-
-<br/>
-
-<div align="center">
-  <h3>Show some ❤️ by starring some of the repositories! Thankss!!!</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanhuy2005&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=adbac7&bg_color=0d1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhuy2005&layout=compact&hide_border=true&langs_count=6&title_color=58a6ff&text_color=adbac7&bg_color=0d1117" height="150" />
 </div>
