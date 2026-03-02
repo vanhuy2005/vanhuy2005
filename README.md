@@ -157,34 +157,7 @@ _Private repository_
 ---
 
 ### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanhuy2005&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=adbac7&bg_color=0d1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhuy2005&layout=compact&hide_border=true&langs_count=8&title_color=58a6ff&text_color=adbac7&bg_color=0d1117" height="150" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhuy2005&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&currStreakNum=adbac7&sideNums=adbac7&dates=adbac7" height="150" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanhuy2005&theme=github_dark" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanhuy2005&theme=github_dark" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanhuy2005&theme=github_dark" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanhuy2005&theme=github_dark" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanhuy2005&theme=github_dark&utcOffset=7" height="150" />
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vanhuy2005/vanhuy2005/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
