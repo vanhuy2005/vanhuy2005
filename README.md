@@ -51,24 +51,6 @@
 </details>
 
 <details>
-<summary>📚 <b>MemoHub</b> — EdTech with Spaced Repetition</summary>
-
-> Node.js · Express · MongoDB · Redis
-
-**Situation:** Students often struggle with long-term knowledge retention due to unscientific review schedules.
-
-**Task:** Create an educational platform applying spaced repetition methods alongside a competitive progress-tracking system.
-
-**Action:** Integrated a custom SM-2 algorithm to automatically calculate optimal review intervals. Leveraged Redis to cache the leaderboard and utilized MongoDB aggregation pipelines for real-time data analysis.
-
-**Result:** Provided highly accurate, personalized review schedules and drastically reduced leaderboard load latency by **90%** (from 500ms down to <50ms).
-
-[Still in progress] [Source](https://github.com/vanhuy2005/memo-hub)
-
-<!-- <img src="https://raw.githubusercontent.com/vanhuy2005/memo-hub/main/public/dashboard-preview.png" width="100%" /> -->
-</details>
-
-<details>
 <summary>🛒 <b>FruitHub</b> — E-commerce with admin dashboard</summary>
 
 > React 19 · Node.js · Express · MongoDB · Cloudinary · JWT · Render 
@@ -83,20 +65,6 @@
 </details>
 
 <details>
-<summary>🎓 <b>HCMUE Career Hub</b> — Alumni networking platform for education students</summary>
-
-> PHP · Laravel · MySQL
-
-- Connects current HCMC University of Education students with alumni for mentoring & career guidance
-- Profile setup system with education history, skills, and career interests
-- 1-on-1 real-time messaging for private mentorship conversations
-- Alumni directory with search & filtering by graduation year, major, and industry
-
-_Private repository_
-
-</details>
-
-<details>
 <summary>🍽️ <b>ScanToOrder</b> — Digital menu & kitchen management for restaurants</summary>
 
 > React · Node.js · PostgreSQL · Socket.io
@@ -107,23 +75,6 @@ _Private repository_
 - Built for mid-scale restaurants — manages multiple tables, split bills, and order history
 
 _Private repository_
-
-</details>
-
-<details>
-<summary>🏫 <b>English Center</b> — Comprehensive Management System</summary>
-
-> React 18 · Node.js · Express · MongoDB · Tailwind CSS · Material-UI
-
-**Situation:** Educational centers need a centralized system to handle complex data across multiple departments (academic, accounting, teaching) securely.
-
-**Task:** Collaborate in a 3-person team to develop a management platform with granular role-based access control and visual financial tracking.
-
-**Action:** Built a 6-role RBAC system (Director, Academic Staff, Accountant, etc.) using React 18 and Node.js. Integrated a financial module, designed an interactive dashboard with Recharts, and implemented full i18n support (English/Vietnamese).
-
-**Result:** The system operates smoothly, allows for real-time financial and revenue report exports (Excel/PDF), and ensures data security and isolation across different center departments.
-
-[Still in progress] [Source](https://github.com/vanhuy2005/english-center)
 
 </details>
 
