@@ -10,7 +10,7 @@
 
 >Certifications & Honors & Awards: Updating
 
-📫 [nguyen.van.quang.huy.2105@gmail.com](mailto:nguyen.van.quang.huy.2105@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nvqhuy2005) · [CV](%5BCV%5D%5BNguy%E1%BB%85n%20V%C4%83n%20Quang%20Huy%5D%5BFrontend_Intern%5D.pdf)
+📫 [nguyen.van.quang.huy.2105@gmail.com](mailto:nguyen.van.quang.huy.2105@gmail.com) ·
 
 ### Projects
 
